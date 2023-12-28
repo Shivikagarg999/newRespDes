@@ -143,7 +143,11 @@ body {
         width: 100%;
     }
     .main .textcent p{
-        font-size: 2vw;
+        font-size: 2.5vw;
+        margin-bottom: 5px;
+    }
+    .main .textcent a{
+        font-size: 2.5vw;
         margin-bottom: 5px;
     }
 }
