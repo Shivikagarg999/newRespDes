@@ -142,6 +142,9 @@ body {
      .main .right{
         width: 100%;
     }
+    .textcent{
+        margin-top: 15px;
+    }
     .main .textcent p{
         font-size: 2.5vw;
         margin-bottom: 5px;
