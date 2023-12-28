@@ -146,11 +146,17 @@ body {
         margin-top: 15px;
     }
     .main .textcent p{
-        font-size: 2.5vw;
+        font-size: 2.8vw;
         margin-bottom: 5px;
     }
     .main .textcent a{
         font-size: 2.5vw;
         margin-bottom: 5px;
+        font-weight: 600;
+    }
+    .box{
+        left: 40%;
+        width: 80px;
+        height: 40px;
     }
 }
